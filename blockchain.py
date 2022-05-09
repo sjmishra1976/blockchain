@@ -1,4 +1,5 @@
 # Create a Blockchain
+# Create a virtual env using 'python3 -m venv blkchnenv'. source blkchnenv/bin/activate
 # Install Flask as a pre-requisite. pip install Flask==0.12.2
 # @author: santmishra
 
